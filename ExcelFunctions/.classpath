@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="D:/JarFiles2/commons-codec-1.10.jar"/>
+	<classpathentry kind="lib" path="D:/JarFiles2/commons-collections4-4.1.jar"/>
+	<classpathentry kind="lib" path="D:/JarFiles2/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="D:/JarFiles2/curvesapi-1.04.jar"/>
+	<classpathentry kind="lib" path="D:/JarFiles2/junit-4.12.jar"/>
+	<classpathentry kind="lib" path="D:/JarFiles2/log4j-1.2.17.jar"/>
+	<classpathentry kind="lib" path="D:/JarFiles2/poi-3.17.jar"/>
+	<classpathentry kind="lib" path="D:/JarFiles2/poi-examples-3.17.jar"/>
+	<classpathentry kind="lib" path="D:/JarFiles2/poi-excelant-3.17.jar"/>
+	<classpathentry kind="lib" path="D:/JarFiles2/poi-ooxml-3.17.jar"/>
+	<classpathentry kind="lib" path="D:/JarFiles2/poi-ooxml-schemas-3.17.jar"/>
+	<classpathentry kind="lib" path="D:/JarFiles2/poi-scratchpad-3.17.jar"/>
+	<classpathentry kind="lib" path="D:/JarFiles2/xmlbeans-2.6.0.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
